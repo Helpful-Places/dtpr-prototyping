@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Helpful-Places/dtpr
+  repo: Helpful-Places/dtpr-prototyping
   branch: main
   cms_label_prefix: contribution/
   open_authoring: true
